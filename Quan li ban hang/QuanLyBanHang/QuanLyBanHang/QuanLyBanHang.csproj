@@ -127,6 +127,24 @@
     <Compile Include="frmDangNhap.Designer.cs">
       <DependentUpon>frmDangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmChatLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChatLieu.Designer.cs">
+      <DependentUpon>frmChatLieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDMHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDMHangHoa.Designer.cs">
+      <DependentUpon>frmDMHangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDMNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDMNhanVien.Designer.cs">
+      <DependentUpon>frmDMNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -180,6 +198,15 @@
     <Compile Include="SqlServerTypes\Loader.cs" />
     <EmbeddedResource Include="frmDangNhap.resx">
       <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChatLieu.resx">
+      <DependentUpon>frmChatLieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDMHangHoa.resx">
+      <DependentUpon>frmDMHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDMNhanVien.resx">
+      <DependentUpon>frmDMNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
