@@ -972,3 +972,19 @@ C:\Users\PC\Documents\Zalo Received Files\Quan li ban hang\QuanLyBanHang\QuanLyB
 C:\Users\PC\Documents\Zalo Received Files\Quan li ban hang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
 C:\Users\PC\Documents\Zalo Received Files\Quan li ban hang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
 C:\Users\PC\Documents\Zalo Received Files\Quan li ban hang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmChatLieu.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTKNV.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Bài Tập\HK5\BT-ptud&csdl\BTL\0\Quan li ban hang02\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
