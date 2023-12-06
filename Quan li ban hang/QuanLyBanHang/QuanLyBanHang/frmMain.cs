@@ -61,14 +61,14 @@ namespace QuanLyBanHang
 
         private void mnuKhachHang_Click(object sender, EventArgs e)
         {
-            //frmDMKhachHang frm = new frmDMKhachHang();
-            //frm.ShowDialog();
+            frmDMKhachHang frm = new frmDMKhachHang();
+            frm.ShowDialog();
         }
 
         private void mnuHoaDonBan_Click(object sender, EventArgs e)
         {
-            //frmHoaDonBan frm = new frmHoaDonBan();
-            //frm.ShowDialog();
+            frmHoaDonBan frm = new frmHoaDonBan();
+            frm.ShowDialog();
         }
         
         /*private void mnuDoanhThu_Click(object sender, EventArgs e)
